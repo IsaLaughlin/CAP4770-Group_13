@@ -20,12 +20,12 @@ TMDB Box Office Revenue Prediction
     ├── logrevhist.png # Distribution of log revenue
     └── revhist.png # Distribution of revenue
 └── src
-        ├── basicmodeling.ipynb # Baseline model
-        ├── combined.ipynb # Combining preprocessed data from other files
-        ├── Data Analysis.ipynb # Creating data visualizations
-        ├── dsfinal (1).ipynb
-        ├── dsfinalModeling (1).ipynb
-        ├── disfinalModeling.ipynb
-        ├── dsfinalPre.ipynb
-        └── kfold.ipynb # Performing k cross fold validation on best performing models
+    ├── basicmodeling.ipynb # Baseline model
+    ├── combined.ipynb # Combining preprocessed data from other files
+    ├── Data Analysis.ipynb # Creating data visualizations
+    ├── dsfinal (1).ipynb
+    ├── dsfinalModeling (1).ipynb
+    ├── disfinalModeling.ipynb
+    ├── dsfinalPre.ipynb
+    └── kfold.ipynb # Performing k cross fold validation on best performing models
 ```
